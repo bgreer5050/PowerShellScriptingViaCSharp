@@ -1,0 +1,6 @@
+c:\users\bill\documents\visual studio 2013\Projects\IoT_Scripts\bin\Debug\IoT_Scripts.exe.config
+c:\users\bill\documents\visual studio 2013\Projects\IoT_Scripts\bin\Debug\IoT_Scripts.exe
+c:\users\bill\documents\visual studio 2013\Projects\IoT_Scripts\bin\Debug\IoT_Scripts.pdb
+c:\users\bill\documents\visual studio 2013\Projects\IoT_Scripts\obj\Debug\IoT_Scripts.csprojResolveAssemblyReference.cache
+c:\users\bill\documents\visual studio 2013\Projects\IoT_Scripts\obj\Debug\IoT_Scripts.exe
+c:\users\bill\documents\visual studio 2013\Projects\IoT_Scripts\obj\Debug\IoT_Scripts.pdb
